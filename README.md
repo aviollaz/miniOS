@@ -6,4 +6,4 @@ Coded all the way from the kernel starting in real mode, to running 4 tasks conc
 
 Qemu and gdb required for the makefile.
 
-```make gdb``` should work
+```make gdb``` to compile and run
